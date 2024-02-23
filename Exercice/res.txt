@@ -1,0 +1,5 @@
+manger : verbe du 1ere groupe de longeur 6
+marcher : verbe du 1ere groupe de longeur 7
+manger : verbe du 1ere groupe de longeur 6
+dormir : verbe du 2eme groupe de longeur 6
+
